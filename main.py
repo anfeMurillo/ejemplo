@@ -10,3 +10,5 @@ name = "Felipe"
 print(type(name))
 
 CONSTANTE = "Colombiano"
+
+print("Hi")
