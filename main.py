@@ -11,4 +11,4 @@ print(type(name))
 
 CONSTANTE = "Colombiano"
 
-print("Hi")
+print("Bye")
